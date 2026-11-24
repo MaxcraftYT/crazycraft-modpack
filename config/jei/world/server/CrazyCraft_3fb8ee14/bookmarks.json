@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:oak_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:sugar_cane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:wrench"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:mud"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:netherite_backpack","components":{"sophisticatedcore:number_of_inventory_slots":120,"sophisticatedcore:storage_uuid":[-619025441,1098073529,-1325625596,403041270],"sophisticatedcore:number_of_upgrade_slots":7,"sophisticatedcore:render_info_tag":{"upgradeItems":[{"count":1,"id":"sophisticatedbackpacks:stack_upgrade_tier_3"},{"count":1,"id":"sophisticatedbackpacks:stack_upgrade_tier_3"},{"count":1,"id":"sophisticatedbackpacks:stack_upgrade_tier_3"},{},{},{},{}]}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

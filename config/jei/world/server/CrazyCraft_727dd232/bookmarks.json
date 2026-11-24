@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"botania:terrasteel_helmet","components":{"minecraft:enchantments":{"levels":{"minecraft:thorns":3,"minecraft:protection":4,"minecraft:unbreaking":3}},"minecraft:repair_cost":7}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:wheat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:mace","components":{"minecraft:damage":3}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:mud"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

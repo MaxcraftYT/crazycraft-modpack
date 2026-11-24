@@ -1,0 +1,25 @@
+{
+  "totalPatsCounter": {
+    "pats": 468
+  },
+  "entities": {
+    "minecraft:zombie": {
+      "pats": 7
+    },
+    "minecraft:wolf": {
+      "pats": 166
+    },
+    "ecologics:coconut_crab": {
+      "pats": 16
+    },
+    "minecraft:armor_stand": {
+      "pats": 39
+    },
+    "minecraft:cow": {
+      "pats": 63
+    },
+    "minecraft:player": {
+      "pats": 171
+    }
+  }
+}

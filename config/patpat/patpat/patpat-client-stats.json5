@@ -1,0 +1,10 @@
+{
+  "totalPatsCounter": {
+    "pats": 6
+  },
+  "entities": {
+    "minecraft:pig": {
+      "pats": 5
+    }
+  }
+}

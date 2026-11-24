@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"pointblank:ammo556"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exposure:color_film"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
